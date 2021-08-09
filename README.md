@@ -1,1 +1,1 @@
-# Crear una funcion Anagrama que pida dos parametros y compare si la segunda palabra es anagrama de la primera
+Crear una funcion que pida un número y retorne si es par o impar
